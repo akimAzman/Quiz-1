@@ -2,6 +2,6 @@
 
 class Square():
     def perimeter(self,side):
-return side*4
-a = Square()
-print(a.perimeter(14))
+        return side*1.0
+setSide = Square()
+print(setSide.perimeter(5))
